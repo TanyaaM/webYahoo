@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "E08E88795B6C8AE537DEBB008BA52D21",
+  "keywordClasses": [
+    {
+      "name": "helperFunctions.Helper",
+      "keywordMethods": [
+        {
+          "name": "generateRandomUsername",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generatePassword",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "generatePassword",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
